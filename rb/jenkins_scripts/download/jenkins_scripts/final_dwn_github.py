@@ -20,9 +20,7 @@ g = Github('3015d4949839ffc3914da369e363ce9afabf8058')  # pls generate your toke
 
 token = '3015d4949839ffc3914da369e363ce9afabf8058'
 
-#g = Github(base_url="https://github.com/CenturyLink/271LIT_NEWSTAT/api/v3", login_or_token=token)
 
-#g = Github('AC79308', 'ctli@1122')
 
 #------------------------------------------
 
